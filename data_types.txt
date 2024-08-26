@@ -1,0 +1,23 @@
+Data Types
+
+Java has two types of data:
+**Primitive Data Type
+Non-Primitive Data Type or Object Data Type**
+
+**Primitive Data Type**
+The programming language pre-defines a primitive data type. It contains no extra sophisticated methods and specifies the size and type of variable values.
+**Boolean data type
+byte data type
+char data type
+short data type
+int data type
+long data type
+float data type
+double data type**
+
+**Non-Primitive Data Type or Object Data Type**
+These data types are not actually defined by the programming language but are created by the programmer. These are also called Object Data Types or Reference Data types.
+**Arrays
+Strings
+Classes
+Interfaces**
