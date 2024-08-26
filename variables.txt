@@ -1,0 +1,21 @@
+Variables
+
+A variable is a container that temporarily saves a data value during the execution of a program.
+• A variable name can contain alphanumeric characters, the underscore and dollar characters.
+• A variable name must always start with a letter as ‘_’ and ‘$’ are not • conventionally used.
+• Whitespaces are not permitted.
+• Keywords can not be used as variable names.
+• Variable names are case-sensitive.
+
+**Declaration**
+Declaration of a variable is the process of creating and introducing the variable into your program. Once declared, a variable can not change its type throughout the program**.**
+`data_type variable_name;`
+
+**Initialisation**
+The initialisation of a variable involves assigning a value to the variable. A variable can be assigned different values throughout the program, but the type of value is restricted to the declared data type.
+`data_type variable_name = value;`
+
+**Types of variables in Java**
+Local variables
+Static variables
+Static variables
