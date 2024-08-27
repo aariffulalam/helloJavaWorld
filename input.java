@@ -13,3 +13,25 @@ class input {
         System.out.println("Good "+goal);
     }
 }
+/**
+ * Method
+
+nextInt( ) - Takes integer input from the user
+
+nextFloat( ) - Takes floating-type input from the user
+
+nextBoolean( ) - Takes boolean input from the user
+
+nextLine( ) - Takes a line of text (with spaces) as input from the user
+
+next( ) - Takes character input from the user
+
+nextByte( ) - Takes a byte value as input from the user
+
+nextDouble( ) - Takes double-type input from the user
+
+nextShort( ) - Takes short-type input from the user
+
+nextLong( ) - Takes long-type input from the user
+
+ */
