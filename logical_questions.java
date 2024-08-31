@@ -29,12 +29,27 @@ class logical_questions {
         System.out.println("Binary number is "+binary_number);
 
     }
+
+    static void ReverseString(){
+        Scanner scanner = new  Scanner(System.in);
+        System.out.println("Input 1 - ");
+        String input = scanner.nextLine();
+        String result = "";
+        for (int i = 0; i < input.length(); i++ ) {
+            result = input.charAt(i) + result;
+        }
+        System.out.println(result);
+    }
+
     public static void  main(String[] args){
 
         // AirthmeticOperation();/
 
         // Write a Java program to convert an integer number to a binary number.
-        IntToBinary();
+        // IntToBinary();
+
+        // Write a Java program to reverse a string.
+        ReverseString();
     }
     
 }
