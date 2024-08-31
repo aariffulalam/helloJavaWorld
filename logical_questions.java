@@ -41,6 +41,15 @@ class logical_questions {
         System.out.println(result);
     }
 
+    static  void  ConvertStringIntoInteger(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Input 1 - ");
+        String input = scanner.nextLine();
+        Integer result = Integer.parseInt(input);
+        System.out.println(result);
+        System.out.println( result+1);
+    }
+
     public static void  main(String[] args){
 
         // AirthmeticOperation();/
@@ -49,7 +58,10 @@ class logical_questions {
         // IntToBinary();
 
         // Write a Java program to reverse a string.
-        ReverseString();
+        // ReverseString();
+
+        // Write a Java program to convert a string to an integer./
+         ConvertStringIntoInteger();
     }
     
 }
